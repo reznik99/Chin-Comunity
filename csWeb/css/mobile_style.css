@@ -158,7 +158,7 @@ nav ul li a:hover{
 #slideshow ul li{
   position:relative;
   width:100%;
-  height:50px;
+  height:200px;
   display:none;
   overflow:hidden;
   background-size: cover;
@@ -216,8 +216,8 @@ nav ul li a:hover{
   padding:0px;
   text-align: center;
   z-index: 1;
-  height: 50px;
-  line-height: 50px;
+  height: 200px;
+  line-height: 200px;
   margin:0px;
 }
 #news{
