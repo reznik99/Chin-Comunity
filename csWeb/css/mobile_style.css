@@ -60,6 +60,7 @@ nav ul li a:hover{
   color:white;
 }
 .phone_no{
+  display:none;
   position:absolute;
   width:10%;
   right:5%;
