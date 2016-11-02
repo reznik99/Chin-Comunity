@@ -48,6 +48,7 @@ nav ul li a{
   text-decoration:none;
   padding:10px 0px 10px 0px;
   cursor:pointer;
+  color:black;
   -webkit-transition:0.2s all;
   transition:0.2s all;
 }
