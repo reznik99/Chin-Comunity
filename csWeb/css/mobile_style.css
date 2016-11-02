@@ -187,7 +187,7 @@ nav ul li a:hover{
 .dot_div{
   position:absolute;
   bottom:0px;
-  width:auto;
+  width:64px;
   left:-webkit-calc(50% - 34px);
   left: calc(50% - 34px);
   z-index:2;
