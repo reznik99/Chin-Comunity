@@ -158,7 +158,7 @@ nav ul li a:hover{
 #slideshow ul li{
   position:relative;
   width:100%;
-  height:350px;
+  height:50px;
   display:none;
   overflow:hidden;
   background-size: cover;
