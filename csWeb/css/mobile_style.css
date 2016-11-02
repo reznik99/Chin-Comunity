@@ -188,6 +188,7 @@ nav ul li a:hover{
   position:absolute;
   bottom:0px;
   width:auto;
+  left:-webkit-calc(50% - 34px);
   left: calc(50% - 34px);
   z-index:2;
 }
