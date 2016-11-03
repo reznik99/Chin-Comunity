@@ -187,9 +187,8 @@ nav ul li a:hover{
 .dot_div{
   position:absolute;
   bottom:0px;
-  width:68px;
-  left:-webkit-calc(50% - 34px);
-  left: calc(50% - 34px);
+  width:20%;
+  left: 60%;
   z-index:2;
 }
 .dot {
@@ -200,7 +199,6 @@ nav ul li a:hover{
   background-color: white;
   border-radius: 50%;
   display: inline-block;
-  transition: background-color 0.3s ease;
 }
 .dot:hover{
   background-color: red;
