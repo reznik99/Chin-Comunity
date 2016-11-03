@@ -185,6 +185,7 @@ nav ul li a:hover{
   margin:0px;
 }
 .dot_div{
+  display:none;
   position:absolute;
   bottom:0px;
   width:50%;
@@ -193,8 +194,8 @@ nav ul li a:hover{
 }
 .dot {
   cursor:pointer;
-  height: 20vw;
-  width: 20vw;
+  height: 13px;
+  width: 13px;
   margin: 0 2px;
   background-color: white;
   border-radius: 50%;
